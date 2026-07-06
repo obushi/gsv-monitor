@@ -1,0 +1,36 @@
+{
+  "ishikawa": "Ishikawa | districts: Kanazawa, Kaga | publish: Yes | 2026-04-01〜2026-08-31",
+  "ishikawaRaw": {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Ishikawa",
+    "districts": "Kanazawa, Kaga",
+    "publish": "Yes",
+    "datestart": "2026-04-01T07:00:00.000Z",
+    "dateend": "2026-08-31T07:00:00.000Z"
+  },
+  "japanRegionsPublished": [
+    "Hokkaido",
+    "Aomori",
+    "Fukushima",
+    "Gunma",
+    "Ibaraki",
+    "Tochigi",
+    "Chiba",
+    "Nagano",
+    "Niigata",
+    "Toyama",
+    "Ishikawa",
+    "Gifu",
+    "Aichi",
+    "Osaka",
+    "Hyogo",
+    "Tottori",
+    "Shimane",
+    "Yamaguchi",
+    "Hiroshima",
+    "Fukuoka",
+    "Miyazaki"
+  ]
+}
